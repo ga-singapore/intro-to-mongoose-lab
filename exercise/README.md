@@ -42,6 +42,6 @@ The prompt-sync package, used for user input in the terminal, may not work well 
 1. getting the details of all customers (GET /api/customers)
 2. getting the details of 1 customer (GET /api/customers/:id)
 3. create a new customer (POST /api/customers)
-4. updating a customer (PATCH /api/customers)
-5. deleting a customer (DELETE /api/customers)
+4. updating a customer (PATCH /api/customers/:id)
+5. deleting a customer (DELETE /api/customers/:id)
 
